@@ -1,0 +1,5 @@
+com\adcorreajr\pss\acl\domain\Post.class
+com\adcorreajr\pss\acl\services\ForumService.class
+com\adcorreajr\pss\acl\controllers\ForumController.class
+com\adcorreajr\pss\acl\services\ForumServiceImpl.class
+com\adcorreajr\pss\acl\DatabaseSeeder.class
